@@ -1,1 +1,1 @@
-# MS.cS
+# MS.CS Computer Vision & Pattern
